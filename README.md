@@ -1,4 +1,4 @@
-# Complex Plastic Identification using Machine Learning and Mid-wave Infrared Hyperspectral Imaging
+# MWIR-4-Plastic: The Identification of Complex End-of-Life Industrial Plastic using Mid-wave Infrared Hyperspectral Imaging and  Machine Learning
 
 Pixel-wise polymer classification (Styrene, PA, PC, PP, mix) from fused
 FENIX + FX50 mid-wave infrared hyperspectral cubes. The repo has two
@@ -105,3 +105,7 @@ See [`inference/README.md`](inference/README.md) for full argument details
 and output format. Classical ML models (KNN/RF/SVM/LDA) don't have a
 separate inference script — reload the saved `.joblib` pipeline directly
 with `joblib.load(...)`.
+
+
+## Dataset repo:
+The dataset is available at: \url[https://zenodo.org/records/22142947]
