@@ -108,4 +108,4 @@ with `joblib.load(...)`.
 
 
 ## Dataset repo:
-The dataset is available at: \url[https://zenodo.org/records/22142947]
+The dataset is available at: https://zenodo.org/records/22142947
