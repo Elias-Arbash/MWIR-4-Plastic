@@ -2,6 +2,8 @@
 
 This is the GitHub repository for the manuscript: https://arxiv.org/html/2608.28874v1
 
+![[http://url/to/img.png](https://github.com/Elias-Arbash/MWIR-/main/images/readme.jpg)](https://github.com/Elias-Arbash/MWIR-4-Plastic/blob/main/images/readme.jpg)
+
 Pixel-wise polymer classification (Styrene, PA, PC, PP, mix) from fused
 FENIX + FX50 mid-wave infrared hyperspectral cubes. The repo has two
 families of models:
