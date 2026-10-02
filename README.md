@@ -1,6 +1,6 @@
 # MWIR-4-Plastic: The Identification of Complex End-of-Life Industrial Plastic using Mid-wave Infrared Hyperspectral Imaging and  Machine Learning
 
-This is the GitHub repository for the manuscript: \url(https://arxiv.org/html/2608.28874v1)
+This is the GitHub repository for the manuscript: https://arxiv.org/html/2608.28874v1
 
 Pixel-wise polymer classification (Styrene, PA, PC, PP, mix) from fused
 FENIX + FX50 mid-wave infrared hyperspectral cubes. The repo has two
